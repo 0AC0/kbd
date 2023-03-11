@@ -1,3 +1,3 @@
 # Keyboard
  
-status: very unfinished
+status: almost unfinished
